@@ -1,0 +1,29 @@
+App name: Last Minute Notes
+
+Developer name: Aman Magdum.
+
+Developer email: amanmagdum77@gmail.com
+
+Developer mobile no.: +91 8329394543
+
+Short Description: Qucik brush up your knowledge for placement drives.
+
+Long Description : This app is created with the aim to for students who need to quickly go through important concepts required for interview and placement drives. With this app in hand students can learn anywhere anytime.
+
+This app contains: 
+1.Basic and Advance course of Python.
+2.Object oriented programming concepts.
+3.Lecture videos for complete Python course right from installation to Advanced Python.
+4.Python Programs.
+5.Python IDE.
+6.Data Structures.
+7.Operating Systems.
+8.Networking.
+
+Students will learn how to install Python, work on IDE(Pycharm), write and run programs, Implement advanced and OOPS concepts in their programs, Refer to the programs provided, Run their programs On IDE provided in app, learn concepts of data Structres, Operating Systems and Networking that will be asked in an interview. 
+
+Following outcomes will be achieved after successful studying this app:
+1. Describe the basic terminologies of Python, Data Structures, OS and Networking.
+2. Write Programs for Python basic, advanced and OOPS concepts.
+3. Choose appropriate logic while developing solution to the problem
+4. Confidently answer questions on DS, OS and Networking.
